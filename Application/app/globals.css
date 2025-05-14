@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: Raleway ;
+  src: url("../public/Assets/Fonts/Raleway/Raleway-VF.ttf")format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@theme{
+  --font-Raleway: 'Raleway', sans-serif;
+  --font-Montserrat: 'Montserrat', sans-serif;
+  --color-primary:#2E7D32;
+  --color-accent:#81C784;
+  --color-background:#FAFAFA;
+  --color-text:#333333;
+  --color-secondary:'#4FC3F7';
+
+}
+
+@theme{
+  --color-bilbao-50: #f3faf3;
+--color-bilbao-100: #e2f6e3;
+--color-bilbao-200: #c7ebc9;
+--color-bilbao-300: #9bda9e;
+--color-bilbao-400: #67c16b;
+--color-bilbao-500: #42a547;
+--color-bilbao-600: #2e7d32;
+--color-bilbao-700: #2a6b2d;
+--color-bilbao-800: #265529;
+--color-bilbao-900: #204724;
+--color-bilbao-950: #0d260f;
+
+--color-de-york-50: #f3faf3;
+--color-de-york-100: #e3f5e3;
+--color-de-york-200: #c8eac9;
+--color-de-york-300: #9dd89f;
+--color-de-york-400: #81c784;
+--color-de-york-500: #46a14b;
+--color-de-york-600: #358439;
+--color-de-york-700: #2d6830;
+--color-de-york-800: #28532a;
+--color-de-york-900: #224525;
+--color-de-york-950: #0e2511;
+
+--color-malibu-50: #f0f9ff;
+--color-malibu-100: #e0f2fe;
+--color-malibu-200: #bbe6fc;
+--color-malibu-300: #7ed3fb;
+--color-malibu-400: #4fc3f7;
+--color-malibu-500: #10a4e7;
+--color-malibu-600: #0483c5;
+--color-malibu-700: #05699f;
+--color-malibu-800: #085984;
+--color-malibu-900: #0d4a6d;
+--color-malibu-950: #092f48;
+
+
+}
+
+
+@font-face {
+  font-family: Montserrat ;
+  src: url("../public/Assets/Fonts/Montserrat/Montserrat-Variable.ttf")format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
