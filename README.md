@@ -9,7 +9,7 @@ To run this application in your local environment, follow the below steps:
 
 Clone the repository in your machine 
 
-run  ```bash npm install ```
+run  ```npm install ```
 
 run the development server:
 
